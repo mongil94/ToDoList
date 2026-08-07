@@ -17,6 +17,9 @@
     "@angular/forms": "22.1.0",
     "@angular/platform-browser": "22.1.0",
     "@angular/router": "22.1.0",
+    "bootstrap": "5.3.8",
+    "primeicons": "8.0.0",
+    "primeng": "22.0.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0"
   },
@@ -28,5 +31,8 @@
     "prettier": "^3.8.1",
     "typescript": "6.0.3",
     "vitest": "^4.0.8"
+  },
+  "overrides": {
+    "@hono/node-server": "^2.0.5"
   }
 }
