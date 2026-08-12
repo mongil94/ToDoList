@@ -1,0 +1,10 @@
+<div class="d-flex justify-content-center align-items-center min-vh-100 bg-light">
+  <p-panel header="Login">
+    <div class="d-flex flex-column mb-2">
+      <input pInputText placeholder="Usuario" class="mb-1" />
+      <input pInputText placeholder="Contraseña" type="password" #inputPass/>
+    </div>
+    <p-checkbox id="check-pass" class="me-2" (click)="changeVisibilityPass()"/>
+    <label for="check-pass">{{ 'LOGIN.LABEL_CHECK_PASS' | translate }}</label>
+  </p-panel>
+</div>
