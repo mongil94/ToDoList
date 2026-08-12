@@ -1,0 +1,7 @@
+{
+  "LOGIN":{
+    "INPUT_USUARIO":"Usuario",
+    "INPUT_PASSWORD":"Contraseña",
+    "LABEL_CHECK_PASS":"Mostrar Contraseña"
+  }
+}
