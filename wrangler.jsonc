@@ -3,7 +3,7 @@
   "name": "todolist",
   "compatibility_date": "2026-08-13",
   "assets": {
-    "directory": "./dist/ToDoList",
+    "directory": "./dist/ToDoList/browser",
     "not_found_handling": "single-page-application"
   }
 }
